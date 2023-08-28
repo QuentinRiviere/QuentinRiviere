@@ -1,0 +1,42 @@
+[
+  {
+    "type": "skills",
+    "name": "Languages",
+    "children": ["javascript", "python"]
+  },
+  {
+    "type": "skills",
+    "name": "JS Frameworks",
+    "children": ["React.js", "Next.js", "Vue.js"]
+  },
+  {
+    "type": "skills",
+    "name": "Database",
+    "children": ["Postgres", "MongoDB", "DynamoDB", "sequelize"]
+  },
+  {
+    "type": "skills",
+    "name": "ORM / ODM",
+    "children": ["Prisma", "Mongoose", "Sequelize"]
+  },
+  {
+    "type": "skills",
+    "name": "APIs",
+    "children": ["REST", "GraphQL"]
+  },
+  {
+    "type": "skills",
+    "name": "Infra",
+    "children": ["Docker", "Compose", "Kubernetes", "Serverless", "Lambda"]
+  },
+  {
+    "type": "skills",
+    "name": "miscellaneous",
+    "children": ["typescript", "web3.js", "moralis sdk", "monorepos", "clean code"]
+  },
+  {
+    "type": "skills",
+    "name": "Other techs and stacks (that I don't use anymore)",
+    "children": ["PHP", "Laravel", "Symfony", "Java", "mysql"]
+  }
+]

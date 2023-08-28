@@ -1,0 +1,57 @@
+[
+  {
+      "type": "hobbies",
+      "name": "Music",
+      "children": [
+          "Nav",
+          "Young Nudy",
+          "Wizkid",
+          "Varnish La Piscine",
+          "Tyler the Creator",
+          "N.E.R.D",
+          "Snoh Aalegra",
+          "FKJ",
+          "Jungle",
+          "... and so much more"
+      ]
+  },
+  {
+      "type": "hobby",
+      "name": "Movies",
+      "children": [
+          "The Lord of the Rings (trilogy)",
+          "The Matrix (trilogy)",
+          "Alien (saga)",
+          "Prometheus",
+          "Spirited Away / Grave of the Fireflies / Princess Mononoke / ...",
+          "Harold and Kumar (1 & 2)",
+          "Spoof movie",
+          "Shaolin Soccer / Kung Fu Hustle",
+          "... and so much more"
+      ]
+  },
+  {
+      "type": "hobby",
+      "name": "Series",
+      "children": [
+          "South Park",
+          "Rick & Morty",
+          "The Office",
+          "Law and Order",
+          "X Files",
+          "... and so much more"
+      ]
+  },
+  {
+      "type": "hobby",
+      "name": "Animes",
+      "children": [
+          "Hunter x Hunter",
+          "GTO",
+          "One Piece",
+          "Full Metal Alchemist",
+          "Gintama",
+          "... and so much more"
+      ]
+  }
+]

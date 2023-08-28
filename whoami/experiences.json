@@ -1,0 +1,27 @@
+[
+  {
+      "type": "experience",
+      "name": "XXII",
+      "domain": "Computer vision"
+  },
+  {
+      "type": "experience",
+      "name": "Swingswiss",
+      "domain": "Blockchain / NFT / DeFi"
+  },
+  {
+      "type": "experience",
+      "name": "Eleven Labs (Consulting)",
+      "domain": "SaaS"
+  },
+  {
+      "type": "experience",
+      "name": "Silicom",
+      "domain": "Industries (cybersecurity, telecom, transport)"
+  },
+  {
+      "type": "experience",
+      "name": "WebLAgence",
+      "domain": "Web agency"
+  }
+]
